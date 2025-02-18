@@ -121,7 +121,7 @@ function saveAppointment() {
         requests: document.getElementById('requests').value,
         status: 'pending',
         createdAt: new Date().toISOString(),
-        createdBy: 'a2ys'
+        createdBy: 'BhargaviD2'
     };
 
     appointments.push(appointment);
